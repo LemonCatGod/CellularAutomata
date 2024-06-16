@@ -1,0 +1,15 @@
+data/20_0.txt
+data/40_0.txt
+data/60_0.txt
+data/80_0.txt
+data/100_0.txt
+data/20_0.txt
+data/40_0.txt
+data/60_0.txt
+data/80_0.txt
+data/100_0.txt
+data/120_0.txt
+data/140_0.txt
+data/160_0.txt
+data/180_0.txt
+data/200_0.txt
